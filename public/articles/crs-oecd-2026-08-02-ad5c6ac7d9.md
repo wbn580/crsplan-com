@@ -8,7 +8,7 @@ slug: 'crs-oecd-2026-08-02-ad5c6ac7d9'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-CRS合规/crs-oecd-2026-08-02-ad5c6ac7d9-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.crsplan.com/跨境法务-CRS合规/crs-oecd-2026-08-02-ad5c6ac7d9-image-01-2026-1880x1253.jpg'
 verified: '2026-08-02T00:00:00Z'
 tags:
   - 'CRS'
@@ -32,7 +32,7 @@ One frequent misunderstanding is that a beneficiary must be reported in all case
 
 Trustees should first determine whether the trust is a Reporting Financial Institution, which depends on the trust’s classification and the nature of its assets. Next, identify all beneficiaries and classify their tax residencies. For each beneficiary who is a Reportable Person, maintain records of distributions and equity interests. Apply the due diligence procedures for pre-existing and new accounts as applicable. When a distribution is made, report the beneficiary if they are a Reportable Person. For beneficiaries who have not received a distribution, monitor the situation: if the trustee later obtains knowledge that such a beneficiary is a Reportable Person, or if the trust’s circumstances change (e.g., the beneficiary becomes entitled to a mandatory distribution), the beneficiary may become reportable. Advisors should review trust deeds and information collection processes to ensure they capture the necessary data points for CRS compliance.
 
-![Simplified flowchart of trust beneficiary reporting obligations under the Common Reporting Standard](https://img.ulec.com.cn/跨境法务-CRS合规/crs-oecd-2026-08-02-ad5c6ac7d9-image-01-2026-1880x1253.jpg)
+![Simplified flowchart of trust beneficiary reporting obligations under the Common Reporting Standard](https://img.crsplan.com/跨境法务-CRS合规/crs-oecd-2026-08-02-ad5c6ac7d9-image-01-2026-1880x1253.jpg)
 
 
 ## Navigating the beneficial owner concept for trusts under CRS
