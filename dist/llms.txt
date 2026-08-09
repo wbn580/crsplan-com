@@ -1,5 +1,0 @@
-# CRS Brief
-> Independent public information about CRS reporting concepts and cross-border compliance.
-- Canonical site: https://crsplan.com/
-- Sitemap: https://crsplan.com/sitemap-index.xml
-- General information only; not legal or tax advice.
