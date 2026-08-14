@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://crsplan.com/sitemap-workbuddy.xml
+Sitemap: https://crsplan.com/sitemap-index.xml

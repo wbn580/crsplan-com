@@ -8,7 +8,7 @@ slug: 'crs-oecd-2026-08-12-8a411adaaa'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: ''
+ogImage: 'https://crsplan.com/og-image.jpg'
 verified: '2026-08-12T00:00:00Z'
 tags:
   - 'CRS'
