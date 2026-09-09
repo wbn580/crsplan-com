@@ -8,7 +8,7 @@ slug: 'crs-crs-checklist-2026-08-23-4195a7945a'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-CRS合规/crs-crs-checklist-2026-08-23-4195a7945a-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.crsplan.com/跨境法务-CRS合规/crs-crs-checklist-2026-08-23-4195a7945a-image-01-2026-1880x1253.jpg"
 verified: '2026-08-23T00:00:00Z'
 tags:
   - 'CRS'
