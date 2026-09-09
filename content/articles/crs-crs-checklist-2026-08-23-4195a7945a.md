@@ -31,7 +31,7 @@ The next step is to complete the CRS forms with the collected data. Forms requir
 
 After completing the forms, financial institutions submit them to the relevant tax authority in their jurisdiction. The submission is usually done electronically through a secure portal. The deadline for submission depends on the local regulations, often falling within a few months after the end of the calendar year. Once submitted, the tax authority processes the data and exchanges it with the account holders' home countries via the Common Reporting Standard. It is crucial to retain records of the submission, including confirmation numbers, in case of follow-up queries or audits.
 
-![Checklist for CRS reporting](https://img.ulec.com.cn/跨境法务-CRS合规/crs-crs-checklist-2026-08-23-4195a7945a-image-01-2026-1880x1253.jpg)
+![Checklist for CRS reporting](https://img.crsplan.com/跨境法务-CRS合规/crs-crs-checklist-2026-08-23-4195a7945a-image-01-2026-1880x1253.jpg)
 
 
 ## Common Mistakes and How to Avoid Them
